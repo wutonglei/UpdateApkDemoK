@@ -1,0 +1,14 @@
+<resource>
+    <external-path name="name" path="." />
+    <!--    <files-path-->
+    <!--        name="my_images"-->
+    <!--        path="images/" />-->
+    <!--    <files-path-->
+    <!--        name="my_audios"-->
+    <!--        path="audios/" />-->
+</resource>
+
+
+<!--<resource>
+    <external-path name="download"  path="." />
+</resource>-->
